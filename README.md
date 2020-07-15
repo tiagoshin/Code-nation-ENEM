@@ -1,5 +1,4 @@
 # Code Nation Challenge - ENEM
-This was one of my first challenges in data science, I made it on April 2018 to practice data wrangling and classification and regression models. Tryed a lot of approaches, but kept the ones with the best score.
 
 ## Desafio1
 Sort math scores from highest to lowest
